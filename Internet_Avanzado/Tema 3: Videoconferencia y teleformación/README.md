@@ -140,6 +140,4 @@ En internet hay cursos para todo. Aquí te dejo algunos lugares seguros:
 > 1.  **Videoconferencia:** Pídele a un amigo o familiar que te llame por **Google Meet** o **Zoom** (puedes crear una reunión de prueba gratis). Practica subir y bajar el volumen, silenciar el micrófono y compartir tu pantalla.
 > 2.  **Teleformación:** Busca en Google "cursos online gratuitos para adultos rural". Encuentra un curso que te interese (por ejemplo, "Uso avanzado de WhatsApp" o "Digitalización de pequeños negocios") y anota el nombre y la web donde se imparte.
 
----
 
-*📚 Curso de Iniciación a la Informática · Módulo 3: Servicios Avanzados de Comunicación*
