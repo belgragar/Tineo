@@ -15,10 +15,22 @@ La **búsqueda** es usar la barra superior (donde pone "Buscar en el correo") pa
 
 **Trucos para buscar mejor:**
 - **Por remitente:** Escribe `from:marta` (buscará todos los correos de Marta).
-- **Por asunto:** Escribe `asunto:factura` (buscará correos que tengan esa palabra en el título).
+- **Por destinatario:**
+    - Por destinatario determinado: Escribe `to:marta` (buscará todos los correos para Marta).
+    - Por destinatario específico que haya recibido una copia: Escribe `cc:marta` o `bcc:marta` 
+- **Por asunto:** Escribe `subject:factura` (buscará correos que tengan esa palabra en el título).
+- **Por etiquetas:** Escribe `label:palabra` (buscará todos los correos etiquetados como palabra).
 - **Con comillas:** `"recibo de luz"` (busca esa frase exacta, palabra por palabra).
-- **Por fecha:** `después:2024/01/01` (correos desde el año pasado).
+- **Por fecha:**
+    - Posterior: `after:2024/01/01`.
+    - Anterior: `before:2024/01/01`.
+- **Por tamaño:**
+    - Exacto: `size:10MB`.
+    - Menor: `larger:10MB`.
+    - Mayor: `smaller:10MB`.
 - **Excluir:** `-spam` (busca todo menos lo que contenga "spam").
+- **Total:** `in:anyware` (busca en todas las carpetas, incluídas Spam y Papelera").
+- **Con archivos adjuntos:** Escribe `has:attachment` (buscará todos los correos que tengan archivos adjuntos).
 
 > 💡 **Ejemplo:** Si buscas `from:banco after:2024/06/01`, verás solo los correos de tu banco desde junio.
 
