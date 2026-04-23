@@ -85,17 +85,3 @@ Cada alumno debe:
 1. Pulsa **“Publicar”**.  
 2. Elige una dirección sencilla, por ejemplo:  
    - *mipueblo-[nombre]*  
-3. Entrega el enlace al profesor.
-
----
-
-# ⭐ **Criterios de evaluación**
-- La web tiene **mínimo 5 páginas**.  
-- Incluye **texto, imágenes, enlaces, un mapa y un formulario**.  
-- El contenido está relacionado con **el pueblo del alumno**.  
-- El diseño es claro, ordenado y personalizado.  
-- La web está **publicada** y el enlace funciona.
-
----
-
-Si quieres, puedo preparar también una **versión imprimible**, una **guía paso a paso con capturas**, o incluso una **plantilla de ejemplo** para mostrar en clase.
