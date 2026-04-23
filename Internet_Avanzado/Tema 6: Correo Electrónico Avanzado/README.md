@@ -26,8 +26,8 @@ La **búsqueda** es usar la barra superior (donde pone "Buscar en el correo") pa
     - Anterior: `before:2024/01/01`.
 - **Por tamaño:**
     - Exacto: `size:10MB`.
-    - Menor: `larger:10MB`.
-    - Mayor: `smaller:10MB`.
+    - Mayor: `larger:10MB`.
+    - Menor: `smaller:10MB`.
 - **Excluir:** `-spam` (busca todo menos lo que contenga "spam").
 - **Total:** `in:anyware` (busca en todas las carpetas, incluídas Spam y Papelera").
 - **Con archivos adjuntos:** Escribe `has:attachment` (buscará todos los correos que tengan archivos adjuntos).
