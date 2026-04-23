@@ -132,21 +132,29 @@ La mayoría de buscadores tienen una pestaña llamada **Imágenes**.
 El **correo electrónico** (o *email*) es como una carta digital.
 En lugar de papel y sellos, usas internet para enviar mensajes a cualquier parte del mundo en segundos.
 
+Es un sistema de intercambio de mensajes que no necesita que el emisor y el receptor estén comunicados simultáneamente. Es un sistema basado en almacenamiento y reenvío.
+
+El correo puede ser gratuíto o de pago, personal o de empresa.
+
 **Partes de una dirección de correo:**
 usuario@proveedor.com | | Nombre Dominio (el servidor que guarda el correo)
 
-Ejemplo: `maria.garcia@gmail.com`
+Ejemplos: `angelina.garcia@gmail.com` `jose.garcia@pinayalo.com`
+
+Pregunta: `Ventajas e inconvenientes de correos gratuítos y de correos corporativos`
 
 ---
 
 ### 📮 Gestores de Correo
 
+Los gestores de correo son programas que permiten enviar y recibir correo.
 Hay dos formas de gestionar el correo:
 
 1.  **Webmail (Correo en la web):**
     Entrando a una página web (como `gmail.com` o `outlook.com`) desde el navegador.
     - ✅ No necesitas instalar nada.
     - ✅ Puedes acceder desde cualquier ordenador.
+    - ✅ Acceso mediante usuario y contraseña.
 
 2.  **Cliente de correo (Programa instalado):**
     Programas como *Outlook*, *Thunderbird* o la app del móvil.
