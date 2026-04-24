@@ -13,7 +13,7 @@ A diferencia de la fotografía analógica, que utiliza carretes y procesos quím
 
 ---
 
-# 1. Tamaño del archivo y compresión
+# 1. 📦 Tamaño del archivo y compresión
 
 El tamaño del archivo de una imagen es un factor crucial que influye en su almacenamiento, manejo y calidad. Varios elementos determinan este tamaño, cada uno desempeñando un papel importante en cómo se percibe y utiliza la imagen:
 - Resolución  
@@ -47,7 +47,7 @@ El **nivel de compresión** se refiere al grado en que se reduce el tamaño de u
 >Para impresión o trabajos profesionales, puede ser preferible utilizar formatos sin pérdida, mientras que para la web, la compresión con pérdida puede ser más adecuada para optimizar tiempos de carga.
 
 --- 
-# 2. Píxeles y resolución
+# 2. 🖼️ Píxeles y resolución
 - **Píxel:** unidad mínima de una imagen digital.  
 - **Resolución:** cantidad de píxeles que tiene una imagen.  
   - Cuantos más píxeles, más detalle.  
@@ -83,7 +83,7 @@ El **nivel de compresión** se refiere al grado en que se reduce el tamaño de u
 
 ---
 
-# 3. Formatos de imagen
+# 3. 📁 Formatos de imagen
 - **JPG:** ligero, ideal para redes sociales y web.  
 - **PNG:** más calidad, permite transparencia.  
 - **RAW:** archivo sin procesar, máxima calidad, ideal para edición.
