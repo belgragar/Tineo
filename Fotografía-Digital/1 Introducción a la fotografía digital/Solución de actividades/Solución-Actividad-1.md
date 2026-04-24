@@ -77,7 +77,7 @@
    - Descarga la imagen haciendo clic derecho y seleccionando **Guardar imagen como...**.
 
 3. **Editar la Imagen**:
-   - Usa un programa de edición de imágenes en línea como [Canva](https://www.canva.com) o [Pixlr](https://pixlr.com).
+   - Usa un programa de edición de imágenes en línea como [Photopea](https://www.photopea.com), [Canva](https://www.canva.com) o [Pixlr](https://pixlr.com).
    - Sube la imagen descargada.
 
 4. **Guardar la Imagen Varias Veces**:
