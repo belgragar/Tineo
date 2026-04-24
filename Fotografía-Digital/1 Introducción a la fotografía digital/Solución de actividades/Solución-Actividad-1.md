@@ -23,7 +23,7 @@
 ---
 # Ejercicio 2: Comprensión del Tamaño de Archivo
 1. **Buscar Imágenes en Diferentes Formatos**:
-   - Busca en Google Imágenes "perro en formato JPG" y "perro en formato PNG".
+   - Busca en Google Imágenes "perro filetype:jpg" y "perro filetype:png".
 
 2. **Descargar Imágenes**:
    - Haz clic derecho sobre cada imagen y selecciona **Guardar imagen como...** para descargarlas en tu computadora.
