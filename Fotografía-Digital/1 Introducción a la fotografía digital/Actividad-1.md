@@ -6,6 +6,8 @@
    - Haz clic en "Herramientas" debajo de la barra de búsqueda.
    - Selecciona "Tamaño" y elige "Grande" para buscar imágenes de alta resolución.
    - Observa los resultados y selecciona una imagen. ¿Cuál es su tamaño y resolución? (Haz clic derecho sobre la imagen y selecciona "Abrir imagen en una nueva pestaña" para ver los detalles).
+3. **Discutir**:
+   - ¿Cuál es la importancia de la resolución en las imágenes?
 ---
 # Ejercicio 2: Comprensión del Tamaño de Archivo
 1. **Objetivo**: Entender cómo el formato de imagen afecta el tamaño del archivo.
