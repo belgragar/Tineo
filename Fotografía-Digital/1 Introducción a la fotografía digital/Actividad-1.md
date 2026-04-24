@@ -37,7 +37,7 @@
 1. **Objetivo**: Comprender cómo la compresión afecta la calidad de las imágenes.
 2. **Instrucciones**:
    - Busca una imagen en Google Imágenes que esté en formato JPG.
-   - Descarga la imagen y edítala con un programa de edición de imágenes (puedes usar herramientas en línea como Canva o Pixlr).
+   - Descarga la imagen y edítala con un programa de edición de imágenes (puedes usar herramientas en línea como Photopea, Canva o Pixlr).
    - Guarda la imagen editada varias veces y observa cómo cambia la calidad con cada guardado.
    - Reflexiona sobre la importancia de elegir el nivel de compresión adecuado al guardar imágenes.
 
