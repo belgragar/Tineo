@@ -1,10 +1,4 @@
-Aquí tienes la solución detallada para cada uno de los ejercicios, con los pasos que deben seguir los participantes para completarlos.
-
----
-
-## Soluciones a los Ejercicios
-
-### Ejercicio 1: Búsqueda de Imágenes
+# Ejercicio 1: Búsqueda de Imágenes
 1. **Abrir Google Imágenes**:
    - Abre tu navegador web (Chrome, Firefox, etc.).
    - Ve a [Google Imágenes](https://images.google.com).
@@ -24,8 +18,10 @@ Aquí tienes la solución detallada para cada uno de los ejercicios, con los pas
 6. **Ver Detalles de la Imagen**:
    - Haz clic derecho sobre la imagen y selecciona **Abrir imagen en una nueva pestaña**.
    - Anota la resolución de la imagen (por ejemplo, 1920 x 1080 píxeles).
-
-### Ejercicio 2: Comprensión del Tamaño de Archivo
+7. **Discusión: ¿Cuál es la importancia de la resolución en las imágenes?**
+   - La resolución determina la claridad y el nivel de detalle de una imagen. Imágenes de alta resolución son necesarias para impresiones grandes y para pantallas de alta definición, ya que permiten ver más detalles sin pixelación.
+---
+# Ejercicio 2: Comprensión del Tamaño de Archivo
 1. **Buscar Imágenes en Diferentes Formatos**:
    - Busca en Google Imágenes "perro en formato JPG" y "perro en formato PNG".
 
@@ -38,10 +34,10 @@ Aquí tienes la solución detallada para cada uno de los ejercicios, con los pas
 4. **Anotar Tamaños**:
    - Anota el tamaño del archivo de cada imagen (por ejemplo, 500 KB para JPG y 1 MB para PNG).
 
-5. **Reflexionar**:
-   - Piensa en por qué el tamaño del archivo puede variar entre los formatos y cómo esto afecta su uso.
-
-### Ejercicio 3: Exploración de Resolución y Píxeles
+5. **Reflexionar: Piensa en por qué el tamaño del archivo puede variar entre los formatos y cómo esto afecta su uso**
+   - El tamaño del archivo varía debido a la forma en que cada formato maneja la compresión y la calidad. JPG utiliza compresión con pérdida, lo que reduce el tamaño del archivo, mientras que PNG utiliza compresión sin pérdida, manteniendo la calidad pero resultando en un archivo más grande.
+---
+# Ejercicio 3: Exploración de Resolución y Píxeles
 1. **Buscar Fondos de Pantalla HD**:
    - Usa Google Imágenes para buscar "fondos de pantalla HD".
 
@@ -54,10 +50,10 @@ Aquí tienes la solución detallada para cada uno de los ejercicios, con los pas
 4. **Anotar la Resolución**:
    - Anota la resolución de la imagen (por ejemplo, 1920 x 1080).
 
-5. **Discutir**:
-   - Habla sobre la importancia de la alta resolución para usos como impresión o pantallas grandes.
-
-### Ejercicio 4: Comparación de Formatos de Imagen
+5. **Discutir: Por qué es importante tener una alta resolución para ciertos usos?**
+   - Una alta resolución es crucial para asegurar que las imágenes se vean nítidas y claras, especialmente en pantallas grandes o en impresiones. Una imagen de baja resolución puede aparecer pixelada o borrosa, lo que afecta la calidad visual y la percepción del contenido.
+---
+# Ejercicio 4: Comparación de Formatos de Imagen
 1. **Buscar Imágenes en Diferentes Formatos**:
    - Busca en Google Imágenes "logo en PNG" y "foto en JPG".
 
@@ -70,10 +66,10 @@ Aquí tienes la solución detallada para cada uno de los ejercicios, con los pas
 4. **Observar Calidad Visual**:
    - Compara la calidad visual de ambas imágenes. Observa si hay diferencias en la transparencia o en la calidad.
 
-5. **Reflexionar**:
-   - Piensa sobre cuándo usar JPG y cuándo usar PNG, considerando sus características.
-
-### Ejercicio 5: Reflexión sobre Compresión
+5. **Reflexionar: Piensa sobre cuándo usar JPG y cuándo usar PNG, considerando sus características.**
+   - JPG es ideal para fotografías y imágenes con muchos colores, donde una ligera pérdida de calidad no es perceptible. PNG es mejor para imágenes con transparencias, gráficos o texto, donde se requiere una calidad más alta y sin pérdida de datos.
+---
+# Ejercicio 5: Reflexión sobre Compresión
 1. **Buscar una Imagen JPG**:
    - Busca una imagen en Google Imágenes que esté en formato JPG.
 
@@ -91,9 +87,6 @@ Aquí tienes la solución detallada para cada uno de los ejercicios, con los pas
 5. **Observar Cambios en la Calidad**:
    - Compara la calidad visual de la imagen original con las versiones guardadas. Observa si hay pérdida de calidad.
 
-6. **Reflexionar**:
-   - Piensa sobre la importancia de elegir el nivel de compresión adecuado al guardar imágenes y cómo afecta la calidad final.
+6. **Reflexionar: Piensa sobre la importancia de elegir el nivel de compresión adecuado al guardar imágenes y cómo afecta la calidad final.**
+   - Elegir el nivel de compresión adecuado es crucial para mantener la calidad visual de la imagen. Una compresión excesiva puede resultar en pérdida de detalles y calidad, lo que es especialmente problemático para imágenes que se utilizarán en impresión o en presentaciones.
 
----
-
-Estos pasos guiarán a los participantes a través de cada ejercicio, ayudándoles a comprender mejor los conceptos de fotografía digital y manejo de imágenes.
