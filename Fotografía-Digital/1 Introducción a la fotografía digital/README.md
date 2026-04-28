@@ -100,6 +100,7 @@ El **nivel de compresión** se refiere al grado en que se reduce el tamaño de u
 | **6. TIFF**        | Archivo e Impresión                     | Formato final para imprimir en gran formato. Soporta capas y garantiza color y detalle idénticos al original. |
 | **7. HEIF / HEIC** | Captura en Smartphones                  | Formato nativo en iPhone y Android. Profundidad de color de 10 o 12 bits, permite degradados más suaves.      |
 
+Para conversión de formatos se puede usar la herramienta [shutterencoder] (https://www.shutterencoder.com/) (hay que descargar e instalarla en el equipo).
 
 > [!TIP]
 > 
