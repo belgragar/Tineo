@@ -19,8 +19,20 @@ La ciberseguridad es **cuidar tu información** y proteger tus dispositivos para
 - 🛠️ Dañar tus archivos  
 - 👀 Espiar tus actividades  
 
+La ciberseguridad también tiene una dimensión social, ética y econónica. No se trata sólo de proteger servidores o datos empresariales, sino también de salvaguardar los derechos digitales de los ciudadanos, como la privacidad y el uso responsable de la información.
+
+Existen **tres niveles** de ciberseguridad:
+
+| Nivel | Descripción |
+| :--- | :--- |
+| Personal | Por ejemplo, proteger nuestras contraseñas |
+| Organizacional | Como la implementación de políticas de seguridad en una empresa |
+| Nacional o internacional | Protección de infraestructuras críticas, como las redes eléctricas o de transporte |
+
 La seguridad se basa en **tres ideas clave**:
 
+| Concepto | Descripción |
+| :--- | :--- |
 | 🔐 Confidencialidad | Solo tú decides quién ve tu información. |
 | 🧩 Integridad | Nadie puede cambiar tus datos sin permiso. |
 | 🕒 Disponibilidad | Tu información debe estar accesible cuando la necesites. |
