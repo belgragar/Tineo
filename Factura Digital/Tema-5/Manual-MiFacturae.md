@@ -56,4 +56,39 @@ Si no figuran en tu contrato o pedido, puedes buscarlos de dos formas:
 *   **Facturas Rectificativas:** Si te equivocas, no borres; debes emitir una "factura rectificativa" que anule la anterior.
 
 ---
-*Manual para el curso de Facturación Digital - v1.1 (Actualizado con sección DIR3)*
+
+
+## ⚠️ Errores Comunes al subir facturas a FACe
+Incluso con el archivo generado, el portal de la Administración puede rechazar el envío por los siguientes motivos:
+
+## 1. Códigos DIR3 incorrectos o inexistentes ❌
+
+* El error: Es el más común. Ocurre al confundir la Oficina Contable con la Unidad Tramitadora o al usar códigos obsoletos.
+* Solución: Verifica los códigos en el Directorio de Unidades de FACe. Si el organismo es pequeño (un ayuntamiento pedáneo), a veces usa los códigos de una entidad superior (la Diputación).
+
+## 2. Error en la firma electrónica (Formato XAdES) 🖋️
+
+* El error: El portal indica que "la firma no es válida" o "formato de firma no reconocido". Esto suele pasar si se firma el archivo con un programa externo no configurado para el estándar XAdES-EPES que exige Facturae.
+* Solución: Utiliza siempre la última versión de Autofirma o firma directamente desde la aplicación MiFacturae.
+
+## 3. Importes que no cuadran (Errores de redondeo) 🧮
+
+* El error: FACe rechaza la factura porque la suma de las bases + impuestos no coincide con el total por una diferencia de céntimos.
+* Solución: Revisa que el redondeo se aplique en cada línea de factura y no solo al final. El estándar Facturae es muy estricto con los decimales (máximo dos para el total).
+
+## 4. Falta del número de pedido o expediente 📋
+
+* El error: Muchas administraciones (especialmente las grandes como Ministerios o Comunidades Autónomas) exigen que en el campo "Referencia del Receptor" o "Notas" aparezca el número de contrato o pedido.
+* Solución: Pregunta siempre a tu contacto en la Administración si hay algún dato obligatorio que debas incluir en el campo de "Texto libre" o "Referencia de la Factura".
+
+## 5. Intentar subir un PDF en lugar de un XML/XSIG 📄
+
+* El error: Subir la representación visual (el PDF que podemos leer nosotros) en lugar del archivo informático estructurado.
+* Solución: Asegúrate de que el archivo que subes termina en .xml o .xsig.
+
+## 6. Certificado digital caducado o revocado 🪪
+
+* El error: El proceso de firma parece funcionar, pero FACe lo rechaza al validar la identidad del emisor.
+* Solución: Comprueba la validez de tu certificado en la web de [Valide](https://valide.redsara.es/valide/).
+
+
