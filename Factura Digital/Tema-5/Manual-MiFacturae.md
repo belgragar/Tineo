@@ -91,4 +91,43 @@ Incluso con el archivo generado, el portal de la Administración puede rechazar 
 * El error: El proceso de firma parece funcionar, pero FACe lo rechaza al validar la identidad del emisor.
 * Solución: Comprueba la validez de tu certificado en la web de [Valide](https://valide.redsara.es/valide/).
 
+---
+
+
+# 🔄 Guía: Cómo generar una Factura Rectificativa
+Una factura rectificativa se emite cuando la factura original tiene errores en los datos (NIF, dirección), en los importes (error de cálculo) o cuando hay una devolución de mercancía.
+## 1. Identificar la Factura Original
+Antes de empezar en MiFacturae, debes tener a mano dos datos de la factura que vas a corregir:
+
+* El Número de factura original.
+* La Fecha de emisión de esa factura.
+
+## 2. Crear la factura en MiFacturae
+
+   1. Inicia una nueva factura como lo haces habitualmente.
+   2. Busca el apartado "Tipo de Factura" y selecciona "Rectificativa" (en lugar de "Ordinaria").
+
+## 3. Cumplimentar los datos de rectificación ⚠️
+Este es el paso crítico. Se abrirá un bloque adicional donde debes indicar:
+
+* Motivo de rectificación: Debes elegir una clave (ej: 01 por error en datos, 02 por error en importes).
+* Referencia a la factura rectificada: Escribe el número y la fecha de la factura que quieres anular/corregir.
+* Periodo de rectificación: Normalmente es la fecha actual.
+
+## 4. Opciones de Importe (¿Positivo o Negativo?)
+Existen dos formas de hacerlo según cómo trabaje el cliente:
+
+* Por diferencia (Neta): Creas una factura solo por el importe que falta o que sobra (puede llevar importes negativos).
+* Por sustitución (Total): Es la más común en la Administración Pública. Emitas una factura nueva con los datos correctos (en positivo) y el sistema, al marcarla como rectificativa, entiende que la anterior queda anulada.
+
+## 5. Firma y Envío
+Al igual que una factura normal, debes pasar por Autofirma. Al enviarla a FACe, el sistema detectará que es una rectificativa y la "emparejará" con la original en el expediente del organismo público.
+
+------------------------------
+## 📌 Nota para el alumno:
+
+Nunca borres una factura que ya ha sido enviada y registrada en FACe. La única forma legal de "borrarla" es emitiendo esta factura rectificativa.
+
+
+
 
