@@ -2,188 +2,108 @@
 
 **2. Según el concepto legal, ¿cuál es la función principal de la firma electrónica?**
 - a) Cifrar el contenido de un correo para que sea privado.
-- b) Identificar al firmante y asegurar su conformidad con los datos firmados.
+- b) *Identificar al firmante y asegurar su conformidad con los datos firmados.*
 - c) Sustituir físicamente al DNI de plástico.
 - d) Almacenar documentos en la nube de forma segura.
-
-**3. ¿Qué tipo de firma electrónica tiene legalmente el mismo valor que una firma manuscrita?**
-- a) Firma electrónica simple.
-- b) Firma electrónica avanzada.
-- c) Firma electrónica cualificada.
-- d) Firma biométrica sobre papel.
-
-**4. Es un requisito indispensable de la firma electrónica avanzada:**
-- a) Estar basada en un PIN enviado por SMS.
-- b) Permitir detectar cualquier modificación posterior de los datos firmados.
-- c) Utilizar obligatoriamente el DNI electrónico.
-- d) Ser emitida exclusivamente por la Fábrica Nacional de Moneda y Timbre.
-
-**6. Para crear una firma electrónica cualificada, se requiere necesariamente:**
-- a) Un navegador web en modo incógnito.
-- b) Un Dispositivo Cualificado de Creación de Firma (QSCD).
-- c) Una conexión a internet satelital.
-- d) Un certificado de usuario no cualificado.
 
 **7. En un juicio, si se impugna una firma cualificada, ¿qué sucede con la carga de la prueba?**
 - a) El firmante debe demostrar que la firma es auténtica.
 - b) La firma se anula automáticamente.
-- c) Existe inversión de la carga de la prueba: quien la impugna debe demostrar que es falsa.
+- c) *Existe inversión de la carga de la prueba: quien la impugna debe demostrar que es falsa.*
 - d) El juez debe decidir basándose en su intuición.
 
 **8. ¿Qué ocurre si se altera una sola coma de un documento tras haber sido firmado electrónicamente?**
 - a) El sistema avisa pero la firma sigue siendo válida.
-- b) La firma se rompe y el documento pierde su integridad y validez técnica.
+- b) *La firma se rompe y el documento pierde su integridad y validez técnica.*
 - c) El documento se borra automáticamente.
 - d) La firma se actualiza con la nueva versión del texto.
 
 ---
 
-### ✅ Soluciones
-1-**c** | 2-**b** | 3-**c** | 4-**b** | 5-**c** | 6-**b** | 7-**c** | 8-**c** | 9-**a** | 10-**c**
-
----
-
-# Cuestionario: Capítulo 2 - El Certificado Electrónico
-
-**1. En el sistema de criptografía asimétrica, ¿para qué se utiliza la clave privada del titular?**
-- a) Para verificar la firma de un documento recibido.
-- b) Para cifrar un mensaje que cualquiera puede leer.
-- c) Para realizar la firma electrónica de un documento.
-- d) Para renovar automáticamente el certificado cuando caduque.
-
-**2. ¿Qué función cumple la clave pública en un certificado electrónico?**
-- a) Permitir que cualquier persona verifique la autenticidad de la firma del titular.
-- b) Generar la firma electrónica del documento.
-- c) Almacenar la contraseña de acceso al certificado.
-- d) Sustituir a la clave privada en caso de pérdida.
-
 **3. Si una persona actúa en nombre de una empresa para realizar trámites, ¿qué tipo de certificado debería utilizar?**
 - a) Certificado de Persona Física.
-- b) Certificado de Representante de Persona Jurídica.
+- b) *Certificado de Representante de Persona Jurídica.*
 - c) Sello Electrónico.
 - d) Certificado de Atribución Pública.
 
-**4. ¿Cuál es la principal característica del 'Sello Electrónico'?**
-- a) Solo puede ser utilizado por el Director General de una empresa.
-- b) Sirve para firmar documentos de forma manual por los empleados.
-- c) Se utiliza para actuaciones administrativas automatizadas sin intervención humana directa.
-- d) Tiene una validez ilimitada en el tiempo.
-
-**5. ¿Qué entidad es un ejemplo de Prestador de Servicios de Certificación en España?**
-- a) La Agencia Española de Protección de Datos (AEPD).
-- b) La Fábrica Nacional de Moneda y Timbre (FNMT-RCM).
-- c) Cualquier sucursal bancaria privada.
-- d) Google o Microsoft.
-
-**6. En el procedimiento estándar de obtención, ¿qué paso es obligatorio realizar de forma presencial (o mediante vídeo-identificación)?**
-- a) La solicitud del código en la página web.
-- b) La descarga del certificado final.
-- c) La acreditación de la identidad ante una Oficina de Registro.
-- d) El pago de las tasas de emisión.
-
-**7. ¿Qué extensión suelen tener los archivos que contienen una copia de seguridad del certificado (par de claves)?**
-- a) .exe o .msi
-- b) .pdf o .docx
-- c) .pfx o .p12
-- d) .jpg o .png
-
 **8. ¿Cuál es la diferencia entre la caducidad y la revocación de un certificado?**
 - a) La caducidad es definitiva y la revocación es temporal.
-- b) La caducidad ocurre por el paso del tiempo; la revocación es una anulación solicitada antes de tiempo por causas de seguridad o cambios.
+- b) *La caducidad ocurre por el paso del tiempo; la revocación es una anulación solicitada antes de tiempo por causas de seguridad o cambios.*
 - c) No hay diferencia, son términos sinónimos.
 - d) Solo los certificados gratuitos caducan, los de pago se revocan.
 
 **9. ¿En qué situación es imperativo solicitar la revocación inmediata de un certificado?**
 - a) Si el usuario cambia de ordenador habitual.
-- b) Si se sospecha que la clave privada ha sido comprometida o copiada por un tercero.
+- b) *Si se sospecha que la clave privada ha sido comprometida o copiada por un tercero.*
 - c) Si el certificado va a caducar en los próximos 3 meses.
 - d) Si el usuario olvida la contraseña de su correo electrónico personal.
 
-**10. ¿Qué requisito debe cumplir un certificado para ser considerado 'Cualificado' según el Reglamento eIDAS?**
-- a) Debe haber sido emitido de forma totalmente gratuita.
-- b) Debe estar instalado en al menos tres dispositivos diferentes.
-- c) Debe ser expedido por un Prestador de Servicios de Confianza Cualificado y cumplir requisitos técnicos específicos.
-- d) Debe incluir una fotografía digitalizada del titular dentro del código del certificado.
-
----
-
-### Solucionario (Clave de respuestas)
-
-1. **c)** Para realizar la firma electrónica de un documento.
-2. **a)** Permitir que cualquier persona verifique la autenticidad de la firma.
-3. **b)** Certificado de Representante de Persona Jurídica.
-4. **c)** Se utiliza para actuaciones administrativas automatizadas.
-5. **b)** La Fábrica Nacional de Moneda y Timbre (FNMT-RCM).
-6. **c)** La acreditación de la identidad ante una Oficina de Registro.
-7. **c)** .pfx o .p12.
-8. **b)** La caducidad ocurre por tiempo; la revocación es una anulación solicitada.
-9. **b)** Si se sospecha que la clave privada ha sido comprometida.
-10. **c)** Expedido por un Prestador Cualificado y cumplir requisitos técnicos.
-
----
-
-# Cuestionario: Capítulo 3 - El DNI Electrónico (DNIe)
 
 **2. ¿Qué información NO se almacena en el chip del DNI electrónico?**
 - a) Datos de filiación del titular (nombre, apellidos, etc.).
 - b) Certificados de autenticación y firma.
-- c) Historial médico y antecedentes penales.
+- c) *Historial médico y antecedentes penales.*
 - d) Imagen digitalizada de la fotografía y firma manuscrita.
 
 **3. De acuerdo con su descripción funcional, ¿qué permiten las "nuevas capacidades" de identificación del DNIe?**
-- a) Acreditar la identidad de forma remota sin presencia física del titular.
+- a) *Acreditar la identidad de forma remota sin presencia física del titular.*
 - b) Viajar a cualquier país del mundo sin necesidad de pasaporte.
 - c) Pagar directamente en comercios como si fuera una tarjeta de crédito.
 - d) Almacenar copias de seguridad de archivos personales de gran tamaño.
 
-**4. ¿Cuál es la vida útil habitual de los certificados electrónicos contenidos en el DNIe?**
-- a) La misma que la validez del plástico (5 o 10 años).
-- b) 24 meses (2 años).
-- c) 60 meses (5 años).
-- d) No tienen caducidad mientras el chip funcione físicamente.
-
-
-**6. ¿Para qué sirve específicamente el certificado de "Autenticación" del DNIe?**
-- a) Para firmar documentos PDF con validez legal manuscrita.
-- b) Para asegurar la comunicación y el acceso seguro a sedes electrónicas.
-- c) Para desbloquear el ordenador si se olvida la contraseña de usuario.
-- d) Para cifrar archivos del disco duro de forma permanente.
-
 **7. ¿Qué ocurre si se introduce el PIN del DNI electrónico de forma incorrecta tres veces consecutivas?**
 - a) El carnet queda anulado y hay que solicitar uno nuevo por pérdida.
 - b) Se puede desbloquear mediante una llamada telefónica al soporte de la policía.
-- c) El chip se bloquea y debe acudirse a un Punto de Actualización del DNI para desbloquearlo con la huella.
+- c) *El chip se bloquea y debe acudirse a un Punto de Actualización del DNI para desbloquearlo con la huella.*
 - d) El PIN se envía automáticamente al teléfono móvil registrado por el titular.
 
-**8. ¿Cuál de estos elementos es una medida de seguridad física presente en la tarjeta del DNIe?**
-- a) Una pequeña batería de litio integrada bajo el chip.
-- b) Tintas ópticamente variables (OVI) y relieves táctiles.
-- c) Un localizador GPS integrado para casos de pérdida o robo.
-- d) Una pantalla de tinta electrónica que muestra el PIN.
+**1. ¿Cuál es una de las principales ventajas de la disponibilidad 24/7 de las Sedes Electrónicas?**
+- a) Permite que los funcionarios trabajen por la noche.
+- b) *Elimina la dependencia de los horarios de oficina para que el ciudadano realice trámites.*
+- c) Garantiza que el ciudadano siempre reciba una respuesta inmediata a su solicitud.
+- d) Obliga a la Administración a resolver los expedientes en menos de 24 horas.
 
-**9. ¿Qué requisito técnico es indispensable para firmar un trámite administrativo con el DNIe en un ordenador?**
-- a) Tener instalado el software "Autofirma" o los drivers oficiales del DNIe.
-- b) Disponer de una cámara web para reconocimiento facial obligatorio.
-- c) Tener una cuenta de correo electrónico corporativa de la policía.
-- d) Estar conectado a internet mediante cable Ethernet obligatoriamente.
+**6. ¿Qué suele recibir el ciudadano para informarle de que tiene una notificación electrónica pendiente en una Sede?**
+- a) Una carta certificada por correo postal.
+- b) *Un aviso de cortesía a través de SMS o correo electrónico.*
+- c) Una llamada telefónica automática.
+- d) Nada, el ciudadano debe entrar diariamente a revisar todas las sedes.
 
-**10. ¿Por qué se dice que el DNIe garantiza el "no repudio"?**
-- a) Porque el documento es de policarbonato y no se puede romper.
-- b) Porque el titular no puede negar haber firmado un documento, ya que solo él posee el chip y el PIN.
-- c) Porque permite anular una firma si el usuario se arrepiente al cabo de unos días.
-- d) Porque la policía verifica cada firma individualmente en tiempo real.
+**7. ¿En qué momento exacto se considera "practicada" una notificación electrónica?**
+- a) En el momento en que la Administración envía el archivo al servidor.
+- b) En el momento en que el ciudadano recibe el aviso en su teléfono móvil.
+- c) *En el momento en que el interesado accede al contenido de la misma en la sede electrónica.*
+- d) Al día siguiente de ser generada por el funcionario.
+
+# 📝 Cuestionario: Capítulo 5 - La facturación electrónica
+## Curso: Factura Digital (ADGG022PO)
+
+Este test cubre el marco normativo actual, el formato estándar y las funcionalidades de la aplicación de escritorio Facturae.
 
 ---
 
-### Solucionario (Clave de respuestas)
+### Preguntas
 
-1. **b)** Real Decreto 1553/2005.
-2. **c)** Historial médico y antecedentes penales.
-3. **a)** Acreditar la identidad de forma remota sin presencia física.
-4. **c)** 60 meses (5 años).
-5. **b)** La conexión por contactos requiere lector USB; el NFC permite usar el móvil.
-6. **b)** Para asegurar la comunicación y el acceso seguro a sedes electrónicas.
-7. **c)** El chip se bloquea y debe acudirse a un Punto de Actualización.
-8. **b)** Tintas ópticamente variables (OVI) y relieves táctiles.
-9. **a)** Tener instalado el software "Autofirma" o los drivers oficiales.
-10. **b)** Porque el titular no puede negar haber firmado un documento.
+**1. Según la normativa vigente, ¿qué dos requisitos son esenciales para que una factura electrónica sea válida?**
+- a) Que esté impresa en papel y firmada a mano.
+- b) *La autenticidad de su origen y la integridad de su contenido.*
+- c) Que sea enviada únicamente por correo postal certificado.
+- d) Que el archivo tenga un tamaño superior a 1 MB.
+
+**6. ¿Qué sucede cuando se utiliza la función "Guardar borrador" en Facturae?**
+- a) La factura se envía automáticamente a Hacienda.
+- b) *La factura queda guardada para seguir trabajando en ella sin ser finalizada ni firmada.*
+- c) La factura se borra permanentemente a los 10 minutos.
+- d) El programa imprime una copia de seguridad.
+
+**7. ¿Qué es el SII (Suministro Inmediato de Información)?**
+- a) Un programa para diseñar logotipos en las facturas.
+- b) *Un sistema de gestión del IVA donde se envían los detalles de las facturas a la AEAT casi en tiempo real.*
+- c) Una aplicación móvil para recibir facturas de supermercados.
+- d) El servicio técnico oficial de la aplicación Facturae.
+
+**10. ¿Qué se necesita para "Firmar y enviar" una factura de forma que tenga validez legal ante la Administración Pública?**
+- a) Una cuenta de usuario en Facebook.
+- b) *Un certificado digital válido instalado en el equipo.*
+- c) Un escáner de alta resolución.
+- d) La autorización por escrito de un notario para cada factura.
