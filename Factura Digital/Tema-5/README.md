@@ -11,9 +11,33 @@ La factura electrónica es un documento digital que tiene los mismos efectos leg
 *   **Requisitos:** Para ser válida, debe garantizar la **autenticidad del origen**, la **integridad del contenido** y la **legibilidad**.
 
 ## 5.2 Formato Facturae 🏗️
-El estándar técnico en España es el formato **Facturae**, basado en el lenguaje **XML**.
-*   Es un formato estructurado que permite el tratamiento automatizado por parte de los sistemas informáticos.
-*   Las versiones más comunes son la **3.2.1** y la **3.2.2**.
+
+### 📄 El estándar Facturae
+El formato **Facturae** es el estándar técnico definido por el Gobierno de España para la codificación de facturas.
+*   **Lenguaje XML:** A diferencia de un PDF (que es una imagen digital), Facturae utiliza lenguaje **XML**. Esto permite que los datos (importes, tipos impositivos, conceptos) sean procesados automáticamente por los sistemas contables sin intervención humana.
+*   **Versiones:** Las versiones más utilizadas actualmente son la **3.2.1** y la **3.2.2**. Es crucial seleccionar la versión correcta en la aplicación según los requisitos del receptor.
+*   **Firma Electrónica:** Para que un archivo XML sea considerado una "Facturae" válida, debe estar firmado electrónicamente con un certificado cualificado.
+
+### 📮 FACe: El Punto General de Entrada
+**FACe** (Punto General de Entrada de Facturas Electrónicas) es la plataforma online que actúa como ventanilla única para el envío de facturas a la Administración Pública.
+
+*   **Ventanilla Única:** Permite enviar facturas a la Administración General del Estado, así como a miles de Ayuntamientos, Comunidades Autónomas y otras instituciones adheridas.
+*   **Códigos DIR3:** Es el concepto más importante al usar FACe. Toda factura enviada a través de este portal debe incluir tres códigos de identificación obligatorios:
+    1.  **Oficina Contable:** Quien gestiona la contabilidad.
+    2.  **Órgano Gestor:** Quien aprueba la factura.
+    3.  **Unidad Tramitadora:** Quien recibe el servicio o bien.
+*   **Trazabilidad:** FACe permite al proveedor consultar en tiempo real el estado de su factura (si ha sido recibida, registrada, conformada o pagada).
+*   **Obligatoriedad:** El uso de FACe es obligatorio para facturas superiores a **5.000 €** destinadas a la Administración, aunque muchas administraciones ya lo exigen para cualquier importe.
+
+> **Nota Práctica:** Cuando generas una factura en la **Aplicación Facturae (5.3)**, el objetivo final es obtener un archivo con extensión `.xsig` (XML firmado) para subirlo manualmente a la web de **FACe** o enviarlo directamente desde el programa si está configurado.
+
+---
+
+### Diferencia clave:
+| Concepto | ¿Qué es? | Función |
+| :--- | :--- | :--- |
+| **Facturae** | El Formato (XML) | Garantiza que los datos estén estructurados y sean legibles por máquinas. |
+| **FACe** | El Portal (Buzón) | Es el canal oficial de envío y seguimiento para la Administración Pública. |
 
 ## 5.3 Aplicación Facturae 💻
 Es la aplicación gratuita de escritorio ofrecida por el Ministerio de Industria para generar y gestionar facturas sin necesidad de un software privado.
