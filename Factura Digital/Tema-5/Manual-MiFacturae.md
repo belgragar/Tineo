@@ -2,6 +2,8 @@
 
 La plataforma **MiFacturae** es la solución web oficial para generar facturas electrónicas (.xml) sin necesidad de instalar software complejo.
 
+Enlace: https://mifacturae.face.gob.es/#/publico/inicio
+
 ---
 
 ## 🛠️ Requisitos Previos
